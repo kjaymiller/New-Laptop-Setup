@@ -15,5 +15,5 @@ brew cask install alfred
 brew cask install fission
 brew cask install audio-hijack
 brew cask install firefox
-
+brew cask install dash
 
