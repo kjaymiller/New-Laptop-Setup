@@ -17,3 +17,6 @@ brew cask install fission
 brew cask install firefox
 brew cask install dash
 brew cask install skype
+
+#install your ssh-keys to github
+. ./set_sshkey.sh
