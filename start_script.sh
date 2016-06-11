@@ -16,4 +16,4 @@ brew cask install fission
 brew cask install audio-hijack
 brew cask install firefox
 brew cask install dash
-
+brew cask install skype
